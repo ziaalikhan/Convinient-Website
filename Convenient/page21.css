@@ -1,0 +1,85 @@
+#mh{
+    width: 100%;
+    background-color: green;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+
+#mb{
+    width: 100%;
+    border-radius: 10px;
+    padding: 13px;
+    background-color: green;
+    text-align: center;
+    font-size: 13px;
+    margin-left: 10px;
+    color: white;
+    margin-left: 25px;
+    margin-bottom: 10px;
+
+}
+
+#imb{
+    margin-left: 10px;
+}
+
+#imb1{
+    margin-left: 25px;
+}
+
+#gg{
+    color: green;
+}
+
+#mb1{
+    width: 100%;
+    border-radius: 10px;
+    padding: 13px;
+    background-color: orangered;
+    text-align: center;
+    font-size: 13px;
+    margin-left: 10px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#mid1{
+    background-color:rgb(212, 227, 200);
+    margin-left: -50px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+#mid{
+    background-color:rgb(212, 227, 200);
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+
+#butcarocard1{
+    width: 100px;
+    margin-left: -60px;
+     border-radius: 20px;
+     background-color: orangered;
+     font-size: 16px;
+     padding: 5px;
+     color: white;
+     border: 1px solid #ddd;
+ 
+ }
+
+#mid2{
+    font-size: 12px;
+    color: rgb(121, 121, 121);
+    margin-left: -70px;
+    margin-top: 10px;
+}

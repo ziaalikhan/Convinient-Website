@@ -1,0 +1,194 @@
+
+
+#carocard{
+    border: 2px solid #ddd;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: -50px;
+    width:40%;
+    background-color: white;
+    box-sizing: border-box;
+}
+#cards1{
+   
+    margin-left: 20px;
+    width: 70%;
+    background-color:rgb(212, 227, 200);
+    box-sizing: border-box;
+}
+
+#bgcarocard{
+    background-color: white;
+    border-top-right-radius: 10px;
+}
+
+
+#bgcarocard1{
+    background-color: white;
+    border-top-left-radius: 10px;
+}
+
+#cardcaroa{
+    color: black;
+}
+
+#cardcaroa:hover{
+    color: black; 
+    text-decoration: none;
+}
+
+#cardtxt{
+    margin-top: 10px;
+}
+
+#carocardhomeimg{
+    box-sizing: border-box;
+    margin-left: 35px;
+    margin-top: -45px;
+}
+
+#carocarda{
+    color:black;
+    text-align: center;
+    margin-top: 22px;
+    margin-left: 13px;
+    box-sizing: border-box;
+}
+
+#iconn{
+    margin-left: 10px;
+}
+
+
+
+
+#bb{
+    margin-top: 20px;
+    text-align: center;
+   
+}
+
+
+#hk{
+    margin-left: 120px;
+    width: 100%;
+    margin-top: 20px;
+
+}
+
+
+
+
+
+#mid{
+    margin-left: 38px;
+    margin-bottom: 5px;
+    background-color:rgb(212, 227, 200);
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+#mid1{
+    margin-left: 38px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    border-radius: 20px;
+    width: 100%;
+    padding: 10px;
+    border-color: silver;
+    background-color:rgb(212, 227, 200);
+    text-align: center;
+    color: rgb(75, 71, 68);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#mid2{
+
+    margin-bottom: 5px;
+    width: 80%;
+    text-align: center;
+}
+
+#butcarocard1{
+   width: 100px;
+    margin-left: 70px;
+    border-radius: 10px;
+    background-color: orangered;
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: white;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding: 8px;
+
+}
+
+#butcarocard2{
+    box-sizing: border-box;
+    margin-top: 65px;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    
+}
+
+@media (max-width : 360px)
+{
+    #cards1{
+        height: 150px;
+        margin-left: 20px;
+        width: 85%;
+        background-color:rgb(212, 227, 200);
+        box-sizing: border-box;
+    }
+    #carocard{
+        border: 2px solid #ddd;
+        margin: auto;
+        border-radius: 10px;
+        margin-top: -50px;
+        width:90%;
+        background-color: white;
+        box-sizing: border-box;
+    }
+    #carocardhomeimg{
+        box-sizing: border-box;
+        margin-left: 100px;
+        margin-top: -45px;
+    }
+    #cardcaroa{
+        color: black;
+        margin-left: 70px;
+    }
+    #mid{
+        font-size: 15px;
+        margin-left: 40px;
+     
+    }
+    #mid1{
+        font-size: 15px;
+        margin-left: 40px;
+     
+    }
+    #mid2{
+        font-size: 15px;
+        margin-left: 30px;
+     
+    }
+    #bb{
+        font-size: 13px;
+    }
+    #hk{
+        margin-left: 150px;
+    }
+    #butcarocard1{
+        margin-left: 105px;
+     
+     }
+}
+
+
+
+
+
+
+
